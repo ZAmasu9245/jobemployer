@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"				"RolePlay Job System"
+	"version"			"1.0"
+	"author_name"			"@NicolasStr_"
+	"info"				"idk"
+}
